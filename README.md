@@ -1,2 +1,14 @@
 # tips-iqy-guide
-HTML page archive and documentation
+
+页面内容归档仓库
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
